@@ -186,7 +186,7 @@
 </template>
 
 <script setup>
-import { storeToRefs } from "pinia";
+;
 import FloatingVue from 'floating-vue'
 import 'floating-vue/dist/style.css'
 // import VDropdown from 'floating-vue/dist/components/Dropdown.vue.d.ts'

@@ -57,7 +57,7 @@
 import * as d3 from "d3";
 import FloatingVue from 'floating-vue'
 import 'floating-vue/dist/style.css'
-import { storeToRefs } from "pinia";
+;
 // import { VueperSlides, VueperSlide } from 'vueperslides'
 // import 'vueperslides/dist/vueperslides.css'
 

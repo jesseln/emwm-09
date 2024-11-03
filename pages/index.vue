@@ -75,7 +75,7 @@ What kind of marginal marks did they make most frequently? What hands did they u
   
   <script setup>
 
-import { storeToRefs } from "pinia";
+;
 import FloatingVue from 'floating-vue'
 import 'floating-vue/dist/style.css'
 import { VueperSlides, VueperSlide } from 'vueperslides'

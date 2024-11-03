@@ -110,7 +110,7 @@
 </template>
 
 <script setup>
-import { storeToRefs } from "pinia";
+;
 
 //Props
 // const {viewMode} = defineProps(['viewMode']);

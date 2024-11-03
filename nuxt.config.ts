@@ -6,7 +6,20 @@ export default defineNuxtConfig({
   nitro: {
     preset: "cloudflare-pages"
   },
-
+  vite: {
+    server: {
+      fs: {
+        strict: false
+      }
+    },
+    css: {
+        preprocessorOptions: {
+          scss: {
+            api: 'modern-compiler',
+          },
+        },
+      },
+  },
   modules: [
     "nitro-cloudflare-dev",
     "@nuxt/image",

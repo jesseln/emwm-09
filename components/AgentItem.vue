@@ -160,7 +160,7 @@ import * as d3 from "d3";
 import FloatingVue from 'floating-vue'
 import 'floating-vue/dist/style.css'
 import { VueperSlides, VueperSlide } from 'vueperslides'
-import { storeToRefs } from "pinia";
+;
 import 'vueperslides/dist/vueperslides.css'
 
 const loadedCheck = ref(false);

@@ -24,7 +24,7 @@
 </template>
 
 <script setup>
-import { storeToRefs } from "pinia";
+;
 const {content} = defineProps(['content']);
 
 //Library State

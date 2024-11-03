@@ -72,7 +72,7 @@
 
 <script setup>
     import * as d3 from "d3";
-    import { storeToRefs } from "pinia";
+    ;
     const {articleView} = defineProps(['articleView']);
    
     // STATE MANAGERS IMPORT //    

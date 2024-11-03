@@ -131,12 +131,12 @@
 
     </div>
    
-    
-  </template>
-  
-  <script setup>
 
-import { storeToRefs } from "pinia";
+</template>
+
+<script setup>
+
+
 import FloatingVue from 'floating-vue'
 import 'floating-vue/dist/style.css'
 // ROUTE MANAGERS

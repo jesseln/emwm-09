@@ -59,7 +59,7 @@
 import * as d3 from "d3";
 import FloatingVue from 'floating-vue'
 import 'floating-vue/dist/style.css'
-import { storeToRefs } from "pinia";
+;
 
 //Props
 const {item, itemBundle, itemSelected, itemModalColour} = defineProps(['item', 'itemBundle', 'itemSelected', 'itemModalColour']);

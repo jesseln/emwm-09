@@ -181,7 +181,7 @@
 </template>
 
 <script setup>
-import { storeToRefs } from "pinia";
+;
 import FloatingVue from 'floating-vue'
 import 'floating-vue/dist/style.css'
 

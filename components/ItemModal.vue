@@ -249,7 +249,7 @@
 
 <script setup>
 import { VueperSlides, VueperSlide } from 'vueperslides'
-import { storeToRefs } from "pinia";
+;
 import 'vueperslides/dist/vueperslides.css'
 const {_item} = defineProps(['_item']);
 const {close} = defineEmits(['close']);

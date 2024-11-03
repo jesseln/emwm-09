@@ -138,7 +138,7 @@
 </template>
 
 <script setup>
-import { storeToRefs } from "pinia";
+;
 
 // ROUTE MANAGERS
 const route = useRoute()

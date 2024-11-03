@@ -7,5 +7,16 @@ export default defineNuxtConfig({
     preset: "cloudflare-pages"
   },
 
-  modules: ["nitro-cloudflare-dev"]
+  modules: [
+    "nitro-cloudflare-dev",
+    "@nuxt/image",
+    "@nuxtjs/google-fonts",
+    "@nuxtjs/supabase",
+    "@nuxt/icon",
+    "nuxt-lodash",
+    "@pinia/nuxt",
+    '@vueuse/nuxt',
+    'floating-vue/nuxt',
+    '@nuxtjs/stylelint-module',
+  ]
 })
